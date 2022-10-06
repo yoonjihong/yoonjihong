@@ -6,7 +6,7 @@
 
 contact via email: [email](mailto:wmsttks@gmail.com)
 
-## 💻 Skills
+## 🛠 Skills
 - **Javascript**
   - **Typescript**
   - ES6+, Webpack, babel, lint, prettier
@@ -40,7 +40,7 @@ contact via email: [email](mailto:wmsttks@gmail.com)
 </ul>
 </details>
 
-## 👨‍💻 Works
+## 💻 Works
 - 2020.01 ~ 현재
   - <a href="http://ksict.com/">KSICT</a> FE Developer 산업기능요원 (2021.03.09 ~ 2024.01.08)
 - 2020.02 ~ 현재 
