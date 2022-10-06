@@ -10,7 +10,7 @@ contact via email: [email](mailto:wmsttks@gmail.com)
 - **Javascript**
   - **Typescript**
   - ES6+, Webpack, babel, lint, prettier
-- React
+- **React**
   - Typescript
   - Recoil
   - ApolloClient
@@ -42,7 +42,7 @@ contact via email: [email](mailto:wmsttks@gmail.com)
 
 ## 💻 Works
 - 2020.01 ~ 현재
-  - <a href="http://ksict.com/">KSICT</a> FE Developer 산업기능요원 (2021.03.09 ~ 2024.01.08)
+  - <a href="http://ksict.com/">KSICT FE Developer</a> 산업기능요원 (2021.03.09 ~ 2024.01.08)
 - 2020.02 ~ 현재 
   - <a href="https://jiiiihong.tistory.com/" target="_blank">안산공업 고등학교 웹 개발 동아리 강사</a>
 
