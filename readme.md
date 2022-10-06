@@ -6,7 +6,7 @@
 
 contact via email: [email](mailto:wmsttks@gmail.com)
 
-## 🛠 Skills
+## 💻 Skills
 - **Javascript**
   - **Typescript**
   - ES6+, Webpack, babel, lint, prettier
