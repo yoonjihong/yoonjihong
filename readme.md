@@ -9,11 +9,14 @@ contact via email: [email](mailto:wmsttks@gmail.com)
 ## 🛠 Skills
 - **Javascript**
   - **Typescript**
-  - Webpack, babel, lint, prettier ...
+  - ES6+, Webpack, babel, lint, prettier
 - React
   - Typescript
+  - Recoil
+  - ApolloClient
   - Jest
 - Vue
+- GraphQL
 <details><summary><b>etc...</b></summary>
 <ul>
   <li>
@@ -40,7 +43,7 @@ contact via email: [email](mailto:wmsttks@gmail.com)
 - 2020.01 ~ 현재
   - KSICT에서 FE Developer 산업기능요원 (2021.03.09 ~ 2024.01.08)
 - 2020.02 ~ 현재 
-  - 안산공업 고등학교 웹 개발 동아리 강사
+  - [안산공업 고등학교 웹 개발 동아리 강사](https://jiiiihong.tistory.com/){:target="_blank"}
 
 <!-- ## ⭐️ Interest
 
