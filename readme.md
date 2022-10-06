@@ -37,11 +37,13 @@ contact via email: [email](mailto:webd200@gmail.com)
 
 ## 👨‍💻 Works
 
-- 2020.01 ~ 현재 KSICT에서 FE 개발자로 근무 중
-  -  산업기능요원 (2021.03.09 ~ 2024.01.08)
+- 2020.01 ~ 현재
+  - KSICT에서 FE Developer 산업기능요원 (2021.03.09 ~ 2024.01.08)
+- 2020.02 ~ 현재 
+  - 안산공업 고등학교 웹 개발 기능반 강사
 
-## ⭐️ Interest
+<!-- ## ⭐️ Interest
 
 - **Main**: React, Typescript
-- **Side**: UI/UX, Flutter
+- **Side**: UI/UX, Flutter -->
 <!-- - **Humanly**: Netflix(always watching "Friends"), Action movie, cityPop -->
