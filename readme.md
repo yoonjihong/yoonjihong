@@ -4,7 +4,7 @@
 ![yoonjihong github stats](https://github-readme-stats.vercel.app/api?username=yoonjihong&count_private=true&show_icons=true&theme=monokai)
 ![counter](https://komarev.com/ghpvc/?username=yoonjihong)
 
-contact via email: [email](mailto:webd200@gmail.com)
+contact via email: [email](mailto:wmsttks@gmail.com)
 
 ## 🛠 Skills
 - **Javascript**
