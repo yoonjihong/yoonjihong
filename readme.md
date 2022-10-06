@@ -8,7 +8,6 @@
 ![counter](https://komarev.com/ghpvc/?username=yoonjihong)
 <!-- ### FE Developer -->
 
-<br/>
 
 ### 🛠 Skills
 - **Javascript**
@@ -48,7 +47,6 @@
     </ul>
   </details>
 
-<br/>
 
 ### 💻 Works
 - 2020.01 ~ 현재
