@@ -16,8 +16,7 @@ contact via email: [email](mailto:wmsttks@gmail.com)
   - ApolloClient
   - Jest
 - Vue
-- GraphQL
-<details><summary><b>etc...</b></summary>
+<details><summary><b>more 👇</b></summary>
 <ul>
   <li>
     CSS
@@ -35,11 +34,13 @@ contact via email: [email](mailto:wmsttks@gmail.com)
   <li>
     Flutter
   </li>
+  <li>
+    GraphQL
+  </li>
 </ul>
 </details>
 
 ## 👨‍💻 Works
-
 - 2020.01 ~ 현재
   - <a href="http://ksict.com/">KSICT</a> FE Developer 산업기능요원 (2021.03.09 ~ 2024.01.08)
 - 2020.02 ~ 현재 
