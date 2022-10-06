@@ -55,7 +55,7 @@
   - <a href="https://jiiiihong.tistory.com/" target="_blank">안산공업고등학교 웹 개발 기술연구반 강사</a>
 
 
-<h3><a href="mailto:wmsttks@gmail.com">Connect Me</a></h3>
+<h4><a href="mailto:wmsttks@gmail.com">Connect Me</a></h4>
 <!-- [contact via email ✉️](mailto:wmsttks@gmail.com) -->
 
 <!-- ## ⭐️ Interest
