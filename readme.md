@@ -20,32 +20,33 @@
   - ApolloClient
   - Jest
 - Vue
-<details><summary><b>more 👇</b></summary>
-<ul>
-  <li>
-    HTML
-  </li>
-  <li>
-    CSS
+- <details>
+    <summary><b>more 👇</b></summary>
     <ul>
-      <li>scss, sass</li>
-      <li>Styled-component, material-ui, AntD</li>
+      <li>
+        HTML
+      </li>
+      <li>
+        CSS
+        <ul>
+          <li>scss, sass</li>
+          <li>Styled-component, material-ui, AntD</li>
+        </ul>
+      </li>
+      <li>
+        PHP
+      </li>
+      <li>
+        Mysql
+      </li>
+      <li>
+        Flutter
+      </li>
+      <li>
+        GraphQL
+      </li>
     </ul>
-  </li>
-  <li>
-    PHP
-  </li>
-  <li>
-    Mysql
-  </li>
-  <li>
-    Flutter
-  </li>
-  <li>
-    GraphQL
-  </li>
-</ul>
-</details>
+  </details>
 
 <br/>
 
