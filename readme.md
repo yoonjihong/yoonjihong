@@ -8,9 +8,8 @@
  
 ![counter](https://komarev.com/ghpvc/?username=yoonjihong)
 <!-- ### FE Developer -->
-[contact via email ✉️](mailto:wmsttks@gmail.com)
 
-## 🛠 Skills
+### 🛠 Skills
 - **Javascript**
   - **Typescript**
   - ES6+, Webpack, babel, lint, prettier
@@ -47,11 +46,15 @@
 </ul>
 </details>
 
-## 💻 Works
+### 💻 Works
 - 2020.01 ~ 현재
   - <a href="http://ksict.com/">KSICT FE Developer</a> 산업기능요원 (2021.03.09 ~ 2024.01.08)
 - 2020.02 ~ 현재 
   - <a href="https://jiiiihong.tistory.com/" target="_blank">안산공업고등학교 웹 개발 기술연구반 강사</a>
+
+
+### Connect Me
+[contact via email ✉️](mailto:wmsttks@gmail.com)
 
 <!-- ## ⭐️ Interest
 
