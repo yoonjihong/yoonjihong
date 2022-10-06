@@ -1,10 +1,9 @@
-### yoonjihong
-
+### Hi 👋, I'm Yoon Ii Hong, FE Developer
+[contact via email ✉️](mailto:wmsttks@gmail.com)
 
 ![yoonjihong github stats](https://github-readme-stats.vercel.app/api?username=yoonjihong&count_private=true&show_icons=true&theme=monokai)
 ![counter](https://komarev.com/ghpvc/?username=yoonjihong)
-
-contact via email: [email](mailto:wmsttks@gmail.com)
+<!-- ### FE Developer -->
 
 ## 🛠 Skills
 - **Javascript**
@@ -18,6 +17,9 @@ contact via email: [email](mailto:wmsttks@gmail.com)
 - Vue
 <details><summary><b>more 👇</b></summary>
 <ul>
+  <li>
+    HTML
+  </li>
   <li>
     CSS
     <ul>
