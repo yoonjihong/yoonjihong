@@ -1,4 +1,8 @@
 ### Hi 👋, I'm Yoon Ii Hong, FE Developer
+<div style="margin-top: -6px">
+  <p style="font-size: 14px; opacity: 1">I ❤️ FE Dev + UX/UI</p>
+</div>
+
 [contact via email ✉️](mailto:wmsttks@gmail.com)
 
 ![yoonjihong github stats](https://github-readme-stats.vercel.app/api?username=yoonjihong&count_private=true&show_icons=true&theme=monokai)
