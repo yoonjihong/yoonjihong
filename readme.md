@@ -49,8 +49,13 @@
   </details>
 
 
-### ⭐️ Etc...
-**Interest** - React, Ts, Flutter, **UX/UI Design** <br/>
-**Hobby** - work out
+### 🔗 Etc...
+- **Interest skills** 
+  - React
+  - Typescript
+  - Flutter
+  - **UX/UI Design**
+- **Hobby** 
+  - work out 🏋🏻
 
 <h4><a href="mailto:wmsttks@gmail.com">Connect Me</a></h4>
