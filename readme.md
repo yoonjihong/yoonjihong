@@ -50,8 +50,7 @@
 
 
 ### ⭐️ Etc...
-**Interest** - React, Ts, Flutter, **UX/UI Design** 
-
+**Interest** - React, Ts, Flutter, **UX/UI Design** <br/>
 **Hobby** - work out
 
 <h4><a href="mailto:wmsttks@gmail.com">Connect Me</a></h4>
