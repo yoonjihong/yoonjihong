@@ -18,10 +18,10 @@
   - **Typescript**
   - ES6+, Webpack, babel, lint, prettier
 - **React**
-  - Typescript
   - Recoil
-  - ApolloClient
-  - Jest
+  - Jest + RTL
+  - GraphQL + ApolloClient
+  - SWR
 - Vue
 - <details>
     <summary><b>more..</b></summary>
@@ -44,9 +44,6 @@
       </li>
       <li>
         Flutter
-      </li>
-      <li>
-        GraphQL
       </li>
     </ul>
   </details>
