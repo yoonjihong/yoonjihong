@@ -13,51 +13,38 @@
 - 2020.02 ~ **Present** 
   - <a href="https://jiiiihong.tistory.com/" target="_blank">안산공업고등학교 웹 개발 기술연구반 강사</a>
 
-### 🛠 Skills
-- <details>
-    <summary><b>Javascript</b></summary>
-    <ul>
-      <li>Typescript</li>
-      <li>ES6+, Webpack, babel, lint, prettier</li>
-    </ul>
-  </details>
-- <details>
-    <summary><b>React</b></summary>
-    <ul>
-      <li>Recoil</li>
-      <li>Jest + RTL</li>
-      <li>SWR, GraphQL + ApolloClient</li>
-    </ul>
-  </details>
-- <details>
-    <summary><b>More..</b></summary>
-    <ul>
-      <li>
-        Vue
-      </li>
-      <li>
-        HTML
-      </li>
-      <li>
-        CSS
-        <ul>
-          <li>scss, sass</li>
-          <li>Styled-component, material-ui, AntD</li>
-        </ul>
-      </li>
-      <li>
-        PHP
-      </li>
-      <li>
-        Mysql
-      </li>
-      <li>
-        Flutter
-      </li>
-    </ul>
-  </details>
-
-
+<details>
+  <summary><h3>🛠 Skills</h3></summary>
+  <ul>
+    <li>
+      <b>Javascript</b>
+      <ul>
+        <li>Typescript</li>
+        <li>ES6+, Webpack, babel, lint, prettier</li>
+      </ul>
+    </li>
+    <li>
+      <b>React</b>
+      <ul>
+        <li>Recoil</li>
+        <li>Jest + RTL</li>
+        <li>SWR, GraphQL + ApolloClient</li>
+      </ul>
+    </li>
+    <li>Vue</li>
+    <li>HTML</li>
+    <li>
+      CSS
+      <ul>
+        <li>scss, sass</li>
+        <li>Styled-component, material-ui, AntD</li>
+      </ul>
+     </li>
+     <li>PHP</li>
+    <li>Mysql</li>
+    <li>Flutter</li>
+  </ul>
+</details>
 <details>
   <summary><h3>🔗 Etc</h3></summary>
   <ul>
