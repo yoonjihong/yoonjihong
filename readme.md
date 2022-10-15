@@ -19,8 +19,7 @@
   - ES6+, Webpack, babel, lint, prettier
 - **React**
   - Recoil
-  - Jest + RTL
-  - SWR, GraphQL + ApolloClient
+  - Jest + RTL, SWR, GraphQL + ApolloClient
 - <details>
   <summary><b>More Skills..</b></summary>
   <ul>
