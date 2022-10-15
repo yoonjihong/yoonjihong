@@ -15,30 +15,29 @@
 
 ### 🛠 Skills
 - **Javascript**
-   - Typescript
-   - ES6+, Webpack, babel, lint, prettier
+  - Typescript
+  - ES6+, Webpack, babel, lint, prettier
 - **React**
   - Recoil
   - Jest + RTL
   - SWR, GraphQL + ApolloClient
-  
-  <details>
-    <summary><b>More Skills..</b></summary>
-    <ul>
-      <li>Vue</li>
-      <li>HTML</li>
-      <li>
-        CSS
-        <ul>
-          <li>scss, sass</li>
-          <li>Styled-component, material-ui, AntD</li>
-        </ul>
-       </li>
-       <li>PHP</li>
-      <li>Mysql</li>
-      <li>Flutter</li>
-    </ul>
-  </details>
+- <details>
+  <summary><b>More Skills..</b></summary>
+  <ul>
+    <li>Vue</li>
+    <li>HTML</li>
+    <li>
+      CSS
+      <ul>
+        <li>scss, sass</li>
+        <li>Styled-component, material-ui, AntD</li>
+      </ul>
+     </li>
+     <li>PHP</li>
+    <li>Mysql</li>
+    <li>Flutter</li>
+  </ul>
+</details>
 
 <details>
   <summary><h3>🔗 Etc</h3></summary>
