@@ -49,13 +49,9 @@
   </details>
 
 
-<br />
+### ⭐️ Etc...
+**Interest** - React, Ts, Flutter, **UX/UI Design** 
+
+**Hobby** - work out
 
 <h4><a href="mailto:wmsttks@gmail.com">Connect Me</a></h4>
-<!-- [contact via email ✉️](mailto:wmsttks@gmail.com) -->
-
-<!-- ## ⭐️ Interest
-
-- **Main**: React, Typescript
-- **Side**: UI/UX, Flutter -->
-<!-- - **Humanly**: Netflix(always watching "Friends"), Action movie, cityPop -->
