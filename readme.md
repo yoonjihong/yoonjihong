@@ -49,7 +49,8 @@
   </details>
 
 
-### 🔗 Etc...
+### 🔗 Etc
+<details>
 - **Interest skills** 
   - React
   - Typescript
@@ -57,5 +58,6 @@
   - **UX/UI Design**
 - **Hobby** 
   - work out 🏋🏻
+</details>
 
 <h4><a href="mailto:wmsttks@gmail.com">Connect Me</a></h4>
