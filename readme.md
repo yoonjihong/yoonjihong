@@ -1,4 +1,4 @@
-#### Hi 👋, I'm Yoon Ji Hong, FE Developer. `I ❤️ FE Dev + UX/UI Design`
+#### `Hi 👋, I'm Yoon Ji Hong, FE Developer. I ❤️ FE Dev + UX/UI Design`
 
 
 
