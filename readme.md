@@ -1,4 +1,4 @@
-### Hi 👋, I'm Yoon Ii Hong, FE Developer
+### Hi 👋, I'm Yoon Ji Hong, FE Developer
 <div style="margin-top: -6px">
   <p style="font-size: 14px; opacity: 1">I ❤️ FE Dev + UX/UI</p>
 </div>
