@@ -21,10 +21,12 @@
   - Recoil
   - Jest + RTL
   - SWR, GraphQL + ApolloClient
-- Vue
 - <details>
     <summary><b>more..</b></summary>
     <ul>
+      <li>
+        Vue
+      </li>
       <li>
         HTML
       </li>
