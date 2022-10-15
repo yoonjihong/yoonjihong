@@ -5,7 +5,6 @@
 ![yoonjihong github stats](https://github-readme-stats.vercel.app/api?username=yoonjihong&count_private=true&show_icons=true&theme=monokai)  
 ![counter](https://komarev.com/ghpvc/?username=yoonjihong)
 <!-- ### FE Developer -->
-<br/>
 
 
 ### 💻 Works
@@ -45,8 +44,7 @@
     <li>Mysql</li>
     <li>Flutter</li>
   </ul>
-</details>
-<details>
+</details><details>
   <summary><h3>🔗 Etc</h3></summary>
   <ul>
     <li><b>Interest skills</b>
