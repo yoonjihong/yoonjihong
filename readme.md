@@ -49,15 +49,23 @@
   </details>
 
 
-### 🔗 Etc
 <details>
-- **Interest skills** 
-  - React
-  - Typescript
-  - Flutter
-  - **UX/UI Design**
-- **Hobby** 
-  - work out 🏋🏻
+  <summary><b>🔗 Etc</b></summary>
+  <ul>
+    <li><b>Interest skills</b>
+      <ul>
+        <li>React</li>
+        <li>Typescript</li>
+        <li>Flutter</li>
+        <li><b>UX/UI Design</b></li>
+      </ul>
+    <li><b>Hobby</b>
+        <ul>
+          <li>work out 🏋🏻</li>
+        </ul>
+    </li>
+    </li>
+  </ul>
 </details>
 
 <h4><a href="mailto:wmsttks@gmail.com">Connect Me</a></h4>
