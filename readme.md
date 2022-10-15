@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Yoon Ji Hong, FE Developer
-```I ❤️ FE Dev + UX/UI```
+```I ❤️ FE Dev + UX/UI Design```
 
 
 ![yoonjihong github stats](https://github-readme-stats.vercel.app/api?username=yoonjihong&count_private=true&show_icons=true&theme=monokai)  
