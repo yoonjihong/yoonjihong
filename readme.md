@@ -22,7 +22,7 @@
   - Jest + RTL
   - SWR, GraphQL + ApolloClient
 - <details>
-    <summary><b>more..</b></summary>
+    <summary><b>More..</b></summary>
     <ul>
       <li>
         Vue
