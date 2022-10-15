@@ -20,8 +20,7 @@
 - **React**
   - Recoil
   - Jest + RTL
-  - GraphQL + ApolloClient
-  - SWR
+  - SWR, GraphQL + ApolloClient
 - Vue
 - <details>
     <summary><b>more..</b></summary>
