@@ -14,13 +14,21 @@
   - <a href="https://jiiiihong.tistory.com/" target="_blank">안산공업고등학교 웹 개발 기술연구반 강사</a>
 
 ### 🛠 Skills
-- **Javascript**
-  - **Typescript**
-  - ES6+, Webpack, babel, lint, prettier
-- **React**
-  - Recoil
-  - Jest + RTL
-  - SWR, GraphQL + ApolloClient
+- <details>
+    <summary><b>Javascript</b></summary>
+    <ul>
+      <li>Typescript</li>
+      <li>ES6+, Webpack, babel, lint, prettier</li>
+    </ul>
+  </details>
+- <details>
+    <summary><b>React</b></summary>
+    <ul>
+      <li>Recoil</li>
+      <li>Jest + RTL</li>
+      <li>SWR, GraphQL + ApolloClient</li>
+    </ul>
+  </details>
 - <details>
     <summary><b>More..</b></summary>
     <ul>
