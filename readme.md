@@ -59,7 +59,7 @@
 
 
 <details>
-  <summary><b>🔗 Etc</b></summary>
+  <summary><h3>🔗 Etc</h3></summary>
   <ul>
     <li><b>Interest skills</b>
       <ul>
