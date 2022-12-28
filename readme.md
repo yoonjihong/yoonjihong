@@ -13,7 +13,7 @@
 - 2020.01 ~ **Present**
   - <a href="http://ksict.com/">KSICT FE Developer</a> 산업기능요원 (2021.03.09 ~ 2024.01.08)
 - 2020.01 ~ **Present** 
-  - <a href="https://jiiiihong.tistory.com/" target="_blank">안산공업고등학교 웹 디자인 및 개발 기술연구반 강사</a>
+  - <a href="https://jiiiihong.tistory.com/" target="_blank">안산공업고등학교 웹 기술연구반 강사</a>
 
 ### 🛠 Skills
 - **Javascript**
