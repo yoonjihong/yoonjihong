@@ -22,7 +22,7 @@
   - Typescript
   - ES6+, Webpack, babel, lint, prettier
 - **React**
-  - Recoil
+  - Recoil, Zustand
   - Jest + RTL, SWR, GraphQL + ApolloClient
 - <details>
   <summary><b>More Skills..</b></summary>
