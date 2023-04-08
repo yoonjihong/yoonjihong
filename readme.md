@@ -17,7 +17,7 @@
 - 2020.01 ~ 2022.12
   - <a href="http://ksict.com/">KSICT FE Developer</a> 산업기능요원 (2021.03.09 ~ 2022.12.22)
 - 2019.11 ~ 2022.12
-  - <a href="http://www.cen-corp.co.kr">씨이엔코퍼레이션</a> 인턴
+  - <a href="http://www.cen-corp.co.kr">씨이엔코퍼레이션</a>
 
 ### 🛠 Skills
 - **Javascript**
