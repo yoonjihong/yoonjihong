@@ -16,7 +16,7 @@
   - <a href="https://namu.wiki/w/%EC%95%88%EC%82%B0%EA%B3%B5%EC%97%85%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90#s-6.5" target="_blank">안산공업고등학교 웹 기술연구반 강사</a>
 - 2020.01 ~ 2022.12
   - <a href="http://ksict.com/">KSICT FE Developer</a> 산업기능요원 (2021.03.09 ~ 2022.12.22)
-- 2019.11 ~ 2022.12
+- 2019.11 ~ 2019.12
   - <a href="http://www.cen-corp.co.kr">씨이엔코퍼레이션</a>
 
 ### 🛠 Skills
