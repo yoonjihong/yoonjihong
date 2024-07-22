@@ -12,8 +12,8 @@
 ### 💻 Works
 - 2022.12 ~ **Present** 
   - <a href="https://www.cashwalk.co/">넛지헬스케어</a> · FE Developer
+  - 캐시워크 프론트엔드 파트장 · 2024.07.22 ~ **Present** 
   - 산업기능요원 · 2022.12.27 ~ 2024.01.08
-  - 캐시워크 프론트엔드 파트장
 - 2020.01 ~ 2023.07   
   - <a href="https://namu.wiki/w/%EC%95%88%EC%82%B0%EA%B3%B5%EC%97%85%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90#s-6.5" target="_blank">안산공업고등학교 웹 기술연구반 강사</a>
 - 2020.01 ~ 2022.12
